@@ -76,6 +76,7 @@ To add a Weapon add :
         }
 to the Weapon[] List
 
+
 To add a Ability add:
     {
             "name": "Dark Vision",
@@ -83,12 +84,14 @@ To add a Ability add:
         }
 to the Ability[] List
 
+
 To add an Item add:
     {
             "name": "Key",
             "amount": 1
         }
 to the Inventory[] List
+
 
 To add a Spell add:
     {
@@ -98,4 +101,4 @@ To add a Spell add:
             "effect": "4d8",
             "description": ""
         }
-to the Spallsy[] List
+to the Spells[] List
