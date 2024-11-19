@@ -66,6 +66,7 @@ and the CharacterSheet.json in the Format
     "sorc_Ability": "",
     "Madness_count": []
 
+-----------------------------------------
 
 To add a Weapon add :
 
@@ -76,6 +77,7 @@ To add a Weapon add :
         }
 to the Weapon[] List
 
+---------------------------------------
 
 To add a Ability add:
 
@@ -86,6 +88,7 @@ To add a Ability add:
 
 to the Ability[] List
 
+-----------------------------------------
 
 To add an Item add:
 
@@ -96,6 +99,7 @@ To add an Item add:
 
 to the Inventory[] List
 
+--------------------------------------
 
 To add a Spell add:
 
@@ -114,15 +118,15 @@ to the Spells[] List
 Spellslots are in Order
 
 [
-        0, #Level 1
-        0, #Level 2
-        0, #Level 3
-        0, #Level 4
-        0, #Level 5
-        0, #Level 6
-        0, #Level 7
-        0, #Level 8
-        0  #Level 9
+        0, #Level 1 \
+        0, #Level 2 \
+        0, #Level 3 \
+        0, #Level 4 \
+        0, #Level 5 \
+        0, #Level 6 \
+        0, #Level 7 \
+        0, #Level 8 \
+        0  #Level 9 \
     ]
 
 The number represents the ammount of SpellsSlots of that Level
