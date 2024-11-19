@@ -1,8 +1,8 @@
 # DND-Sheet
-A DnD Sorcerer Character Sheet
+## A DnD Sorcerer Character Sheet
 
-In the DND_sheet folder is the Executable (.exe)
-and the CharacterSheet.json in the Format
+In the DND_sheet folder is the **Executable (.exe)**
+and the **CharacterSheet.json** in the Format
 
     "Name": "Mensch",
     "Race": "",
@@ -68,7 +68,7 @@ and the CharacterSheet.json in the Format
 
 -----------------------------------------
 
-To add a Weapon add :
+To add a **Weapon** add :
 
     {
             "name": "Sword",
@@ -79,7 +79,7 @@ to the Weapon[] List
 
 ---------------------------------------
 
-To add a Ability add:
+To add a **Ability** add:
 
     {
             "name": "Dark Vision",
@@ -90,7 +90,7 @@ to the Ability[] List
 
 -----------------------------------------
 
-To add an Item add:
+To add an **Item** add:
 
     {
             "name": "Key",
@@ -101,7 +101,7 @@ to the Inventory[] List
 
 --------------------------------------
 
-To add a Spell add:
+To add a **Spell** add:
 
     {
             "name": "Feuerball",
@@ -115,9 +115,9 @@ to the Spells[] List
 
 -------------------------------------
 
-Spellslots are in Order
+**Spellslots** are in Order
 
-[
+[ \
         0, #Level 1 \
         0, #Level 2 \
         0, #Level 3 \
@@ -130,3 +130,6 @@ Spellslots are in Order
     ]
 
 The number represents the ammount of SpellsSlots of that Level
+
+----------------------------------
+**Proficiencies** must be spelled correctly with a capital letter
