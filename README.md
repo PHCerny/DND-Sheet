@@ -61,8 +61,8 @@ and the CharacterSheet.json in the Format
     ],
     "Spells": [
     ],
-    "sorceryPoints": 2,
-    "Max_sorceryPoints": 2,
+    "sorceryPoints": 0,
+    "Max_sorceryPoints": 0,
     "sorc_Ability": "",
     "Madness_count": []
 
@@ -106,5 +106,5 @@ To add a Spell add:
             "effect": "4d8",
             "description": ""
         }
-        
+
 to the Spells[] List
