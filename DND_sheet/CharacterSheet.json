@@ -1,0 +1,100 @@
+{
+    "Name": "Mensch",
+    "Race": "Human",
+    "Class": "Behindert",
+    "Level": "1",
+    "STR": 10,
+    "DEX": 10,
+    "CON": 10,
+    "INT": 10,
+    "WIS": 10,
+    "CHA": 10,
+    "HitPoints": 10,
+    "Max_HitPoints": 20,
+    "AC": 0,
+    "INI": 0,
+    "SPEED": 0,
+    "HitDice": 0,
+    "Max_HitDice": 0,
+    "DeathSave_Passed": 0,
+    "DeathSave_Failed": 0,
+    "Proficiency": 3,
+    "Proficiencies": [
+        "Strength",
+        "Acrobatics",
+        "Elf Weapons"
+    ],
+    "Weapons": [
+        {
+            "name": "Sword",
+            "bonus": "2",
+            "damage": "1d8"
+        }
+    ],
+    "Abilities": [
+        {
+            "name": "Dark Vision",
+            "description": "This is a Ability"
+        }
+    ],
+    "Inventory": [
+        {
+            "name": "Key",
+            "amount": 1
+        }
+    ],
+    "Gold": 0,
+    "Silver": 0,
+    "Copper": 0,
+    "Spell_Att": 0,
+    "Spell_Save": 0,
+    "Spell_Slots": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "Max_Spell_Slots": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "Spells": [
+        {
+            "name": "Feuerball",
+            "level": 3,
+            "attack": 0,
+            "effect": "4d8",
+            "description": ""
+        },
+        {
+            "name": "Feuerbolt",
+            "level": 0,
+            "attack": 0,
+            "effect": "4d8",
+            "description": ""
+        },
+        {
+            "name": "Feuerbolt",
+            "level": 0,
+            "attack": 0,
+            "effect": "4d8",
+            "description": ""
+        }
+    ],
+    "sorceryPoints": 2,
+    "Max_sorceryPoints": 2,
+    "sorc_Ability": "Write here",
+    "Madness_count": []
+}
