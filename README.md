@@ -129,7 +129,7 @@ to the Spells[] List
         0  #Level 9 \
     ]
 
-The number represents the ammount of SpellsSlots of that Level
+The number represents the amount of SpellsSlots of that Level
 
 ----------------------------------
 **Proficiencies** must be spelled correctly with a capital letter
