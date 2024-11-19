@@ -74,7 +74,7 @@ To add a **Weapon** add :
             "name": "Sword",
             "bonus": "2",
             "damage": "1d8"
-        }
+        },
 to the Weapon[] List
 
 ---------------------------------------
@@ -84,7 +84,7 @@ To add a **Ability** add:
     {
             "name": "Dark Vision",
             "description": "This is a Ability"
-        }
+        },
 
 to the Ability[] List
 
@@ -95,7 +95,7 @@ To add an **Item** add:
     {
             "name": "Key",
             "amount": 1
-        }
+        },
 
 to the Inventory[] List
 
@@ -109,7 +109,7 @@ To add a **Spell** add:
             "attack": 0,
             "effect": "4d8",
             "description": ""
-        }
+        },
 
 to the Spells[] List
 
