@@ -49,7 +49,7 @@
     "Spell_Att": 0,
     "Spell_Save": 0,
     "Spell_Slots": [
-        0,
+        2,
         0,
         0,
         0,
@@ -60,7 +60,7 @@
         0
     ],
     "Max_Spell_Slots": [
-        0,
+        2,
         0,
         0,
         0,
